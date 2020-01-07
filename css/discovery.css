@@ -277,6 +277,7 @@ input {
   font-size: 0.44rem;
   color: #323232;
   background-image: url(../images/cm4_disc_title_arr@2x.png);
+  background-size: 0.21rem;
   background-repeat: no-repeat;
   background-position: right 0.51rem;
 }
@@ -537,7 +538,7 @@ input {
   padding-top: 0.5rem;
   font-size: 0.4rem;
   color: #FFF;
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.6), transparent);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0));
 }
 
 .discovery .recommend .meta {
